@@ -1,0 +1,27 @@
+
+
+项目组长：林培文
+
+本周项目进度：
+
+ A9主程序部分： 做到什么程度（目前完成了什么）， 下周计划完成那些
+		完成pthread_uart_cmd（发送用户对m0的操作指令），pthread_transfer(收到env信息)，
+		下周计划完成sqlite，camera，analysis（分析env信息）等主要功能模块。
+	主要分工： 咸忠慧，client_request(处理用户指令，有对a9的指令，m0的指令发uart_cmd模块),uart_cmd(发送指令)
+                   王皓轩，sms，camera
+                   沈晖栋，analysis，transfer(收到env信息)
+		
+ 
+ A9移植部分：   做到什么程度（目前完成了什么）， 下周计划完成那些
+		完成uboot，boa模块移植，
+                下周计划文件系统移植，camera模块移植	
+	任务：	林培文，李良
+
+ M0部分：       做到什么程度（目前完成了什么）， 下周计划完成那些
+		完成环境信息的显示、监控、报警功能。下周计划完成RFID的读取、zipbee的发送、接收功能。
+	任务：  李国成，隗继超
+
+ html、CGI部分：做到什么程度（目前完成了什么）， 下周计划完成那些
+		完成html，cgi的一部分（发送m0指令uart_cmd，a8指令cmd）
+		下周计划完成cgi中（env_info,sqlite,camera实时监控）
+	任务：	林培文，李良	

@@ -1,0 +1,14 @@
+<html>
+<body>
+<pre>
+<h1>礦ision Build Log</h1>
+<h2>Project:</h2>
+C:\Documents and Settings\Administrator\桌面\src_hq\M0部分\M0源码\storage 1\Full\project.uvproj
+Project File Date:  07/03/2015
+
+<h2>Output:</h2>
+Load "C:\\Documents and Settings\\Administrator\\桌面\\src_hq\\M0部分\\M0源码\\storage 1\\Full\\output\\Full.AXF" 
+*** Error: 'C:\Keil\ARM\BIN\coocox-agdi.dll' invalid peripheral driver
+Load "C:\\Documents and Settings\\Administrator\\桌面\\src_hq\\M0部分\\M0源码\\storage 1\\Full\\output\\Full.AXF" 
+Erasing Done.
+Programming Done: 27.01 KByte/s
